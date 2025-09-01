@@ -1,0 +1,10 @@
+# main.py
+
+# Prompt for login
+login = input('Enter your login: ')
+
+# Prompt for native language
+language = input('Enter your native language: ')
+
+# Output the message in the required format
+print('Your login is' , login, 'and you speak', language)
